@@ -2,7 +2,7 @@
   "siteId": "clientA",
   "bidders": [
     {
-      "name": "sovrn",
+      "name": "bubu",
       "params": {
         "tagid": "123456"
       }
