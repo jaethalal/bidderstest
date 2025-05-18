@@ -1,0 +1,24 @@
+{
+  "siteId": "clientB",
+  "bidders": [
+    {
+      "name": "media.net",
+      "params": {
+        "cid": "B1234567"
+      }
+    },
+    {
+      "name": "amx",
+      "params": {
+        "siteId": "amx789",
+        "unit": "rectangle"
+      }
+    },
+    {
+      "name": "sovrn",
+      "params": {
+        "tagid": "999888"
+      }
+    }
+  ]
+}
