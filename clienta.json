@@ -1,0 +1,31 @@
+{
+  "siteId": "clientA",
+  "bidders": [
+    {
+      "name": "sovrn",
+      "params": {
+        "tagid": "123456"
+      }
+    },
+    {
+      "name": "criteo",
+      "params": {
+        "zoneId": "987654"
+      }
+    },
+    {
+      "name": "pubmatic",
+      "params": {
+        "publisherId": "abc123",
+        "adSlot": "300x250-top"
+      }
+    },
+    {
+      "name": "colossus",
+      "params": {
+        "placementId": 554433,
+        "customParam": true
+      }
+    }
+  ]
+}
